@@ -1,0 +1,16 @@
+id: I7197C3D7
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:08:46.826594
+last_modified: 2023-02-09 15:08:46.826702
+source_metadata:
+  title: 'MSV 1,11: Pāṇḍulohitakavastu'
+  language: sa
+bases:
+  655A:
+    base_file: 655A.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

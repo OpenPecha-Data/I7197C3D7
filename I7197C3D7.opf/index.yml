@@ -1,0 +1,60 @@
+id: 2279cb8aab764cb0bfc9ed554bd5f830
+annotation_type: index
+revision: '00001'
+annotations:
+  af6a574445b241aca7e2973f75dd58a4:
+    base: 655A.txt
+    Chapters:
+    - title: Pratikriyāvastūddāna
+      span:
+        start: 0
+        end: 161
+    - title: Pāṇḍulohitakavastūddāna
+      span:
+        start: 162
+        end: 391
+    - title: 'Pāṇḍulohitaka: tarjanīyaṃ karma'
+      span:
+        start: 392
+        end: 8585
+    - title: 'Śreyaka: nigarhanīyaṃ karma'
+      span:
+        start: 8586
+        end: 14235
+    - title: 'Aśvaka & Punarvasaka: pravāsanīyaṃ karma'
+      span:
+        start: 14236
+        end: 18412
+    - title: 'Uttara: pratisaṃharanīyaṃ karma'
+      span:
+        start: 18413
+        end: 29492
+    - title: 'Chanda: 1. āpatter adarśanāyotkṣepaṇīyaṃ karma, 2. āpatter apratikarmāyotkṣepaṇīyaṃ
+        karma'
+      span:
+        start: 29493
+        end: 31786
+    - title: 'Ariṣṭa: apratiniḥsṛṣṭe pāpake dṛṣṭigata utkṣepaṇīyaṃ karma'
+      span:
+        start: 31787
+        end: 34911
+    - title: 'Udayin: parivāsa'
+      span:
+        start: 34912
+        end: 37726
+    - title: 'Udayin: mūlaparivāsa'
+      span:
+        start: 37727
+        end: 41916
+    - title: 'Udayin: mūlāpakaṛṣa'
+      span:
+        start: 41917
+        end: 47591
+    - title: 'Udayin: mānāpya'
+      span:
+        start: 47592
+        end: 56512
+    - title: 'Udayin: āvarhaṇa'
+      span:
+        start: 56513
+        end: 72238
